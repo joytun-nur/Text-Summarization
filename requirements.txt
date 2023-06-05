@@ -2,7 +2,6 @@ transformers
 transformers[sentencepiece]
 datasets
 sacrebleu 
-rouge_score 
 py7zr
 pandas
 nltk
